@@ -1,10 +1,10 @@
-👋 Hi, I’m @telostia
+👋 Hi, I’m @blademaster-888
 I am a code junkie, whatever is fun I code!
 From C/C++ to python and even from rust to JS! Currently I am interested in dart.
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=telostia&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=blademaster-888&count_private=true&theme=tokyonight&showicons=true)]()
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=telostia&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=blademaster-888&langs_count=5&theme=tokyonight)]()
 
 ---
 
