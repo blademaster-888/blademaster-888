@@ -1,6 +1,7 @@
 👋 Hi, I’m @blademaster-888
-I am a code junkie, whatever is fun I code!
-From C/C++ to python and even from rust to JS! Currently I am interested in dart.
+I am a code interesting things!
+From C/C++ to python and from rust to JS.Frontends included react and flutter/dart.
+Currently working on python on server backends connecting to the crypto solana chain and radiant chain with typescript as the frontend.
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=blademaster-888&count_private=true&theme=tokyonight&showicons=true)]()
 
