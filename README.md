@@ -14,7 +14,7 @@
 
 
 👋 Hi, I’m @blademaster-888
-I am a code interesting things!
+I code interesting things!
 From C/C++ to python and from rust to JS.Frontends included react and flutter/dart.
 Currently working on python on server backends connecting to the crypto solana chain and radiant chain with typescript as the frontend.
 
